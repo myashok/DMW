@@ -1,0 +1,41 @@
+Transaction count = 9 
+
+DataBase Items are
+I1 I2 I5 
+I2 I4 
+I2 I3 
+I1 I2 I4 
+I1 I3 
+I2 I3 
+I1 I3 
+I1 I2 I3 I5 
+I1 I2 I3 
+
+Frequent Items and their count
+I2 7
+I3 6
+I1 6
+
+Frequent Items in each row 
+row 1: I2 I1 
+row 2: I2 
+row 3: I2 I3 
+row 4: I2 I1 
+row 5: I3 I1 
+row 6: I2 I3 
+row 7: I3 I1 
+row 8: I2 I3 I1 
+row 9: I2 I3 I1 
+
+Fp Tree is
+node 
+parent root child I2 count of child 7
+parent I2 child I1 count of child 2
+parent I2 child I3 count of child 4
+parent I3 child I1 count of child 2
+parent root child I3 count of child 2
+parent I3 child I1 count of child 2
+
+printing conditional pattern bases and FrequentItemSet
+I1 => { I2: 2, I2I3: 2, I3: 2, }  { I2: 4, I3: 4, }
+I3 => { I2: 4, }  { I2: 4, }
