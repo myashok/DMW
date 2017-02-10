@@ -1,0 +1,408 @@
+3195 37
+
+
+C1 goes below
+  1  count 1668
+  2  count 1527
+  3  count 2838
+  4  count 357
+  5  count 2970
+  6  count 225
+  7  count 3075
+  8  count 120
+  9  count 2873
+ 10  count 322
+ 11  count 2128
+ 12  count 1067
+ 13  count 1721
+ 14  count 1474
+ 15  count 2025
+ 16  count 1170
+ 17  count 2499
+ 18  count 696
+ 19  count 1979
+ 20  count 1216
+ 21  count 2224
+ 22  count 971
+ 23  count 1816
+ 24  count 1379
+ 25  count 2859
+ 26  count 336
+ 27  count 2204
+ 28  count 991
+ 29  count 3180
+ 30  count 15
+ 31  count 2525
+ 32  count 446
+ 33  count 224
+ 34  count 3039
+ 35  count 156
+ 36  count 3098
+ 37  count 97
+ 38  count 2195
+ 39  count 1000
+ 40  count 3169
+ 41  count 26
+ 42  count 2713
+ 43  count 482
+ 44  count 2611
+ 45  count 584
+ 46  count 2555
+ 47  count 640
+ 48  count 3012
+ 49  count 183
+ 50  count 1974
+ 51  count 1221
+ 52  count 3184
+ 53  count 11
+ 54  count 2215
+ 55  count 980
+ 56  count 3020
+ 57  count 175
+ 58  count 3194
+ 59  count 1
+ 60  count 3148
+ 61  count 47
+ 62  count 3059
+ 63  count 136
+ 64  count 2630
+ 65  count 565
+ 66  count 3020
+ 67  count 175
+ 68  count 1983
+ 69  count 1212
+ 70  count 2006
+ 71  count 1189
+ 72  count 2344
+ 73  count 851
+ 74  count 2406
+ 75  count 789
+
+
+L1 goes below
+  7  count 3075
+ 29  count 3180
+ 34  count 3039
+ 36  count 3098
+ 40  count 3169
+ 48  count 3012
+ 52  count 3184
+ 56  count 3020
+ 58  count 3194
+ 60  count 3148
+ 62  count 3059
+ 66  count 3020
+
+
+C2 goes below
+  7  29  count 3068
+  7  40  count 3049
+  7  52  count 3064
+  7  58  count 3074
+  7  60  count 3030
+ 29  34  count 3035
+ 29  36  count 3083
+ 29  40  count 3154
+ 29  52  count 3169
+ 29  56  count 3005
+ 29  58  count 3179
+ 29  60  count 3135
+ 29  62  count 3044
+ 29  66  count 3012
+ 34  40  count 3016
+ 34  52  count 3030
+ 34  58  count 3038
+ 36  40  count 3072
+ 36  52  count 3087
+ 36  58  count 3097
+ 36  60  count 3051
+ 40  52  count 3158
+ 40  58  count 3168
+ 40  60  count 3123
+ 40  62  count 3044
+ 48  52  count 3001
+ 48  58  count 3011
+ 52  56  count 3015
+ 52  58  count 3183
+ 52  60  count 3137
+ 52  62  count 3048
+ 52  66  count 3009
+ 56  58  count 3019
+ 58  60  count 3147
+ 58  62  count 3059
+ 58  66  count 3019
+ 60  62  count 3013
+ 60  66  count 3020
+
+
+L2 goes below
+  7  29  count 3068
+  7  40  count 3049
+  7  52  count 3064
+  7  58  count 3074
+  7  60  count 3030
+ 29  34  count 3035
+ 29  36  count 3083
+ 29  40  count 3154
+ 29  52  count 3169
+ 29  56  count 3005
+ 29  58  count 3179
+ 29  60  count 3135
+ 29  62  count 3044
+ 29  66  count 3012
+ 34  40  count 3016
+ 34  52  count 3030
+ 34  58  count 3038
+ 36  40  count 3072
+ 36  52  count 3087
+ 36  58  count 3097
+ 36  60  count 3051
+ 40  52  count 3158
+ 40  58  count 3168
+ 40  60  count 3123
+ 40  62  count 3044
+ 48  52  count 3001
+ 48  58  count 3011
+ 52  56  count 3015
+ 52  58  count 3183
+ 52  60  count 3137
+ 52  62  count 3048
+ 52  66  count 3009
+ 56  58  count 3019
+ 58  60  count 3147
+ 58  62  count 3059
+ 58  66  count 3019
+ 60  62  count 3013
+ 60  66  count 3020
+
+
+C3 goes below
+  7  29  40  count 3042
+  7  29  52  count 3057
+  7  29  58  count 3067
+  7  29  60  count 3023
+  7  40  52  count 3038
+  7  40  58  count 3048
+  7  40  60  count 3005
+  7  52  58  count 3063
+  7  52  60  count 3019
+  7  58  60  count 3029
+ 29  34  40  count 3012
+ 29  34  52  count 3026
+ 29  34  58  count 3034
+ 29  36  40  count 3057
+ 29  36  52  count 3072
+ 29  36  58  count 3082
+ 29  36  60  count 3038
+ 29  40  52  count 3143
+ 29  40  58  count 3153
+ 29  40  60  count 3110
+ 29  40  62  count 3029
+ 29  52  56  count 3000
+ 29  52  58  count 3168
+ 29  52  60  count 3124
+ 29  52  62  count 3033
+ 29  52  66  count 3001
+ 29  56  58  count 3004
+ 29  58  60  count 3134
+ 29  58  62  count 3044
+ 29  58  66  count 3011
+ 29  60  62  count 3000
+ 29  60  66  count 3012
+ 34  40  52  count 3007
+ 34  40  58  count 3015
+ 34  52  58  count 3029
+ 36  40  52  count 3061
+ 36  40  58  count 3071
+ 36  40  60  count 3026
+ 36  52  58  count 3086
+ 36  52  60  count 3040
+ 36  58  60  count 3050
+ 40  52  58  count 3157
+ 40  52  60  count 3112
+ 40  52  62  count 3033
+ 40  58  60  count 3122
+ 40  58  62  count 3044
+ 48  52  58  count 3000
+ 52  56  58  count 3014
+ 52  58  60  count 3136
+ 52  58  62  count 3048
+ 52  58  66  count 3008
+ 52  60  62  count 3002
+ 52  60  66  count 3009
+ 58  60  62  count 3013
+ 58  60  66  count 3019
+
+
+L3 goes below
+  7  29  40  count 3042
+  7  29  52  count 3057
+  7  29  58  count 3067
+  7  29  60  count 3023
+  7  40  52  count 3038
+  7  40  58  count 3048
+  7  40  60  count 3005
+  7  52  58  count 3063
+  7  52  60  count 3019
+  7  58  60  count 3029
+ 29  34  40  count 3012
+ 29  34  52  count 3026
+ 29  34  58  count 3034
+ 29  36  40  count 3057
+ 29  36  52  count 3072
+ 29  36  58  count 3082
+ 29  36  60  count 3038
+ 29  40  52  count 3143
+ 29  40  58  count 3153
+ 29  40  60  count 3110
+ 29  40  62  count 3029
+ 29  52  56  count 3000
+ 29  52  58  count 3168
+ 29  52  60  count 3124
+ 29  52  62  count 3033
+ 29  52  66  count 3001
+ 29  56  58  count 3004
+ 29  58  60  count 3134
+ 29  58  62  count 3044
+ 29  58  66  count 3011
+ 29  60  62  count 3000
+ 29  60  66  count 3012
+ 34  40  52  count 3007
+ 34  40  58  count 3015
+ 34  52  58  count 3029
+ 36  40  52  count 3061
+ 36  40  58  count 3071
+ 36  40  60  count 3026
+ 36  52  58  count 3086
+ 36  52  60  count 3040
+ 36  58  60  count 3050
+ 40  52  58  count 3157
+ 40  52  60  count 3112
+ 40  52  62  count 3033
+ 40  58  60  count 3122
+ 40  58  62  count 3044
+ 48  52  58  count 3000
+ 52  56  58  count 3014
+ 52  58  60  count 3136
+ 52  58  62  count 3048
+ 52  58  66  count 3008
+ 52  60  62  count 3002
+ 52  60  66  count 3009
+ 58  60  62  count 3013
+ 58  60  66  count 3019
+
+
+C4 goes below
+  7  29  40  52  count 3031
+  7  29  40  58  count 3041
+  7  29  52  58  count 3056
+  7  29  52  60  count 3012
+  7  29  58  60  count 3022
+  7  40  52  58  count 3037
+  7  40  58  60  count 3004
+  7  52  58  60  count 3018
+ 29  34  40  52  count 3003
+ 29  34  40  58  count 3011
+ 29  34  52  58  count 3025
+ 29  36  40  52  count 3046
+ 29  36  40  58  count 3056
+ 29  36  40  60  count 3013
+ 29  36  52  58  count 3071
+ 29  36  52  60  count 3027
+ 29  36  58  60  count 3037
+ 29  40  52  58  count 3142
+ 29  40  52  60  count 3099
+ 29  40  52  62  count 3018
+ 29  40  58  60  count 3109
+ 29  40  58  62  count 3029
+ 29  52  58  60  count 3123
+ 29  52  58  62  count 3033
+ 29  52  58  66  count 3000
+ 29  52  60  66  count 3001
+ 29  58  60  62  count 3000
+ 29  58  60  66  count 3011
+ 34  40  52  58  count 3006
+ 36  40  52  58  count 3060
+ 36  40  52  60  count 3015
+ 36  40  58  60  count 3025
+ 36  52  58  60  count 3039
+ 40  52  58  60  count 3111
+ 40  52  58  62  count 3033
+ 52  58  60  62  count 3002
+ 52  58  60  66  count 3008
+
+
+L4 goes below
+  7  29  40  52  count 3031
+  7  29  40  58  count 3041
+  7  29  52  58  count 3056
+  7  29  52  60  count 3012
+  7  29  58  60  count 3022
+  7  40  52  58  count 3037
+  7  40  58  60  count 3004
+  7  52  58  60  count 3018
+ 29  34  40  52  count 3003
+ 29  34  40  58  count 3011
+ 29  34  52  58  count 3025
+ 29  36  40  52  count 3046
+ 29  36  40  58  count 3056
+ 29  36  40  60  count 3013
+ 29  36  52  58  count 3071
+ 29  36  52  60  count 3027
+ 29  36  58  60  count 3037
+ 29  40  52  58  count 3142
+ 29  40  52  60  count 3099
+ 29  40  52  62  count 3018
+ 29  40  58  60  count 3109
+ 29  40  58  62  count 3029
+ 29  52  58  60  count 3123
+ 29  52  58  62  count 3033
+ 29  52  58  66  count 3000
+ 29  52  60  66  count 3001
+ 29  58  60  62  count 3000
+ 29  58  60  66  count 3011
+ 34  40  52  58  count 3006
+ 36  40  52  58  count 3060
+ 36  40  52  60  count 3015
+ 36  40  58  60  count 3025
+ 36  52  58  60  count 3039
+ 40  52  58  60  count 3111
+ 40  52  58  62  count 3033
+ 52  58  60  62  count 3002
+ 52  58  60  66  count 3008
+
+
+C5 goes below
+  7  29  40  52  58  count 3030
+  7  29  52  58  60  count 3011
+ 29  34  40  52  58  count 3002
+ 29  36  40  52  58  count 3045
+ 29  36  40  52  60  count 3002
+ 29  36  40  58  60  count 3012
+ 29  36  52  58  60  count 3026
+ 29  40  52  58  60  count 3098
+ 29  40  52  58  62  count 3018
+ 29  52  58  60  66  count 3000
+ 36  40  52  58  60  count 3014
+
+
+L5 goes below
+  7  29  40  52  58  count 3030
+  7  29  52  58  60  count 3011
+ 29  34  40  52  58  count 3002
+ 29  36  40  52  58  count 3045
+ 29  36  40  52  60  count 3002
+ 29  36  40  58  60  count 3012
+ 29  36  52  58  60  count 3026
+ 29  40  52  58  60  count 3098
+ 29  40  52  58  62  count 3018
+ 29  52  58  60  66  count 3000
+ 36  40  52  58  60  count 3014
+
+
+C6 goes below
+ 29  36  40  52  58  60  count 3001
+
+
+L6 goes below
+ 29  36  40  52  58  60  count 3001
